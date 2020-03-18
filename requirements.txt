@@ -138,7 +138,7 @@ python-jsonrpc-server==0.2.0
 python-language-server==0.28.3
 pytz==2018.3
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.1
 pyzmq==18.0.2
 qtconsole==4.5.1
 reportlab==3.4.0
